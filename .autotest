@@ -1,0 +1,2 @@
+ruquire 'aototest/growl'
+require 'autotest/fsevent'
